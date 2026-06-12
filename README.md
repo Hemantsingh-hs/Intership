@@ -1,2 +1,2 @@
-# Intership
+# Internship
 Demo check
